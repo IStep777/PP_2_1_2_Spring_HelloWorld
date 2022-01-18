@@ -21,8 +21,8 @@
 //        HelloWorld leaf =
 //                applicationContext.getBean(HelloWorld.class);
 //
-//        Cat one = applicationContext.getBean(Cat.class);
-//        Cat two = applicationContext.getBean(Cat.class);
+//       Cat one = applicationContext.getBean(Cat.class);
+//       Cat two = applicationContext.getBean(Cat.class);
 //
 //        Assert.assertSame("Тест провален, не корректная настройка бина HelloWorld", tree, leaf);
 //        Assert.assertNotSame("Тест провален, не корректная настройка бина Cat", one, two);
